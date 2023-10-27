@@ -1,0 +1,4 @@
+1 - Construir grafo OD;
+2 - Peso da ligção é o numero de ligações in ou out que um estado recebe;
+3 - Qual cidade recebe mais ou menos; 
+4 - Discriminar os produtos mais vendidos e mais comprados e correlacior com pib, com população, percapota 
